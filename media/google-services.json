@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988905584761",
+    "firebase_url": "https://lammbeauty-6f516-default-rtdb.firebaseio.com",
+    "project_id": "lammbeauty-6f516",
+    "storage_bucket": "lammbeauty-6f516.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988905584761:android:2824bd654f56cd4e58bca8",
+        "android_client_info": {
+          "package_name": "vn.lammbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988905584761-8ihgm5q99o9bhhikm1iod7n9j2ssan0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8mBiSBk5OamoZ-MtK0DL0ppVlrstNOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988905584761-8ihgm5q99o9bhhikm1iod7n9j2ssan0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988905584761-0v247eqjksce88o9e22abjqefs1ohojl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.lammbeauty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
